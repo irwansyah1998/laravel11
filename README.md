@@ -21,6 +21,8 @@
 
 # Laravel 11 Experimental Application
 
+### Developed by Indra Gunawan Ardiansyah
+
 Welcome to the Laravel 11 Experimental Application! This project is a sandbox environment designed to explore the latest features and capabilities of Laravel 11. It serves as a starting point for learning and experimenting with this robust PHP framework.
 
 ## Features
