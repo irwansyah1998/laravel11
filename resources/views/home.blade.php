@@ -12,6 +12,5 @@
     <a href="/about">About</a>
     <h1>Halaman Home</h1>
     <h2>Author : {{ $Nama }} </h2>
-    
 </body>
 </html>
